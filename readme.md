@@ -5,7 +5,7 @@ Page Application using Vuejs on the frontend and Nodejs on the backend. Basicall
 
 We pass a request from the frontend to the backend , the backend reaches out to 3rd party API to get some data. 
 
-##App Installation and Usage
+## App Installation and Usage
 * Clone the repo **git clone**
 * Install node depedency modules using **npm install** . You must have nodejs installed in your machine.
 * Create an account on this [website](https://tracker.gg/developers) and navigate to dashboard.
